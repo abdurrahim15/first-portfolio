@@ -83,8 +83,8 @@ nav a {
     max-width: 500px;
 }
 
-.banner.banner-profile {
-    width: 200px;
+.banner .banner-profile {
+    width: 500px;
 }
 
 .banner-greetings {
